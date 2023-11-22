@@ -1,0 +1,20 @@
+html{
+    background-image: url(bckgrnd.jpg);
+   
+    background-repeat: no-repeat;
+    background-position: center center;     /* for responsive background image*/
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+
+#shape{
+    border-radius: 50%;
+    position: absolute;
+    background-color: #3498db;
+      }
+
+
+    
